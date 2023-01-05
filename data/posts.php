@@ -4,29 +4,29 @@
     array(
       'id' => 1,
       'title' => 'Programando em PHP',
-      'description' => 'Neste post vocÃª vai aprender tudo que precisa para ser um bom programador de PHP!',
-      'tags' => array('programaÃ§Ã£o', 'PHP', 'lÃ³gica de programaÃ§Ã£o'),
+      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
+      'tags' => array('Programação', 'PHP', 'Lógica de programação'),
       'img' => 'prog-1.jpg'
     ),
     array(
       'id' => 2,
-      'title' => 'OrientaÃ§Ã£o a Objetos com Java',
-      'description' => 'Aprenda o paradigma de orientaÃ§Ã£o a objetos com Java, uma linguagem em alta no mercado.',
-      'tags' => array('Java', 'OOP', 'ProgramaÃ§Ã£o AvanÃ§ada'),
+      'title' => 'Orientação a Objetos com Java',
+      'description' => 'Aprenda o paradigma de orientação a objetos com Java, uma linguagem em alta no mercado.',
+      'tags' => array('Java', 'OOP', 'Programação avançada'),
       'img' => 'prog-2.jpg'
     ),
     array(
       'id' => 3,
-      'title' => 'A importÃ¢ncia da lÃ³gica de programaÃ§Ã£o',
-      'description' => 'A lÃ³gica de programaÃ§Ã£o Ã© o ponto inicial de muitos estudantes de programaÃ§Ã£o, serÃ¡ que Ã© importante?',
-      'tags' => array('lÃ³gica', 'programaÃ§Ã£o', 'algoritmos'),
+      'title' => 'A importância da lógica de programação',
+      'description' => 'A lógica de programação é o ponto inicial de muitos estudantes de programação, será que é importante?',
+      'tags' => array('Lógica', 'Programação', 'Algoritmos'),
       'img' => 'prog-3.jpg',
   ),
     array(
       'id' => 4,
-      'title' => 'Programando em PHP',
-      'description' => 'Neste post vocÃª vai aprender tudo que precisa para ser um bom programador de PHP!',
-      'tags' => array('programaÃ§Ã£o', 'PHP', 'lÃ³gica de programaÃ§Ã£o'),
+      'title' => 'Programando em Python',
+      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador da linguagem Python!',
+      'tags' => array('Programação', 'Python', 'Lógica de programação'),
       'img' => 'prog-4.jpg'
     ),
   );
