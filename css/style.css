@@ -11,7 +11,7 @@ html {
 }
 
 main {
-    margin-bottom: 250px;
+    margin-bottom: 140px;
 }
 
 /* NAVBAR */
@@ -23,6 +23,13 @@ main {
 
 #logo img {
     width: 50px;;
+}
+
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
 }
 
 #navbar {
@@ -55,7 +62,7 @@ main {
 #title-container {
     min-width: 500px;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 120px;
 }
 
 #title-container h1 {
@@ -84,7 +91,6 @@ main {
     flex: 1 1 0;
     margin-bottom: 20px;
 }
-
 
 .post-box:nth-child(3) {
     margin: 0 2%;
