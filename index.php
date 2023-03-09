@@ -6,10 +6,10 @@
             <h1>PHP Web</h1>
             <p>Site sobre programação web com PHP</p>
         </div>
-        <div id="posts-container">
+        <div id="post-container">
             <?php foreach($posts as $post): ?>
                 <div class="post-box">
-                    <img src="<?=$BASE_URL?>img/<?=$post['img']?>" alt="<?=$post['title']?>">
+                    <img src="<?=$BASE_URL?>img/<?=$post['img']?>" alt="<?=$post['title']?>" id="img_<?=$post['id']?>">
                     <h2 class="post-title">
                         <a href="<?=$BASE_URL?>post.php?id=<?=$post['id']?>"?><?=$post['title']?></a>
                     </h2>
